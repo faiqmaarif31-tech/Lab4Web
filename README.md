@@ -318,7 +318,7 @@ Bagian ini berisi kotak konten yang dilengkapi gambar, judul, deskripsi, dan tom
 
 ## Screenshot Hasil Browser
 
-<!-- Letakkan screenshot Konten dan Artikel di sini -->
+<!-- Letakkan screenshot Konten dan Artikel di sini -->https://github.com/faiqmaarif31-tech/Lab4Web/blob/b939b8ae1d7fb6277723aebdef512847392e2b4b/Screenshot%202026-10-14%20081828.png
 
 ---
 
