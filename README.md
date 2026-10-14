@@ -259,7 +259,7 @@ footer {
 
 ## Screenshot Hasil Browser
 
-<!-- Letakkan screenshot Main Content dan Sidebar di sini -->
+<!-- Letakkan screenshot Main Content dan Sidebar di sini -->https://github.com/faiqmaarif31-tech/Lab4Web/blob/6d6af9ac597dc56517ef224def46c3e927d34f7a/Screenshot%202026-10-14%20081115.png
 
 ---
 
