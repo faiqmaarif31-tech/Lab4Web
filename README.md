@@ -202,7 +202,7 @@ nav a:hover {
 
 ## Screenshot Hasil Browser
 
-<!-- Letakkan screenshot Navigasi dan Hero Panel di sini -->
+<!-- Letakkan screenshot Navigasi dan Hero Panel di sini -->https://github.com/faiqmaarif31-tech/Lab4Web/blob/4f7373782d4296be0fe92971ed80a457346f5481/Screenshot%202026-10-14%20080627.png
 
 ---
 
