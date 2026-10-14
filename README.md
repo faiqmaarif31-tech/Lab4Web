@@ -108,7 +108,7 @@ Properti clear digunakan untuk mengatur elemen agar tidak berada di samping elem
 
 ## Screenshot Hasil Browser
 
-<!-- Letakkan screenshot Clearfix di sini -->
+<!-- Letakkan screenshot Clearfix di sini -->https://github.com/faiqmaarif31-tech/Lab4Web/blob/61d8e9989a0528fafde8f1b9f1a1137e8cbfd7ba/Screenshot%202026-10-14%20074823.png
 
 ---
 
