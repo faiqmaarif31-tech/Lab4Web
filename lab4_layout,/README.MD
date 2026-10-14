@@ -1,9 +1,9 @@
 # LAPORAN PRAKTIKUM 4 - CSS LAYOUT
 
 ## Identitas Mahasiswa
-- Nama: [Nama Kamu]
-- NIM: [NIM Kamu]
-- Kelas: [Kelas Kamu]
+- Nama: Faiq Rayyan Ma'arif
+- NIM: 312510062
+- Kelas: I25A1
 - Mata Kuliah: Pemrograman Web
 
 ---
@@ -43,7 +43,7 @@ div {
 }
 ```
 
-## Screenshot Hasil Browser
+## Screenshot Hasil Browser ![Hasil halaman About]
 
 <!-- Letakkan screenshot Box Element di sini -->
 
