@@ -43,7 +43,7 @@ div {
 }
 ```
 
-## Screenshot Hasil Browser ![Hasil halaman About]
+## Screenshot Hasil Browser ![Hasil halaman About]https://github.com/faiqmaarif31-tech/Lab4Web/blob/7bb480f96fa6238f5b95fd30b9b149e8c8f3b1f5/1.png
 
 <!-- Letakkan screenshot Box Element di sini -->
 
