@@ -44,7 +44,7 @@ div {
 ```
 
 ## Screenshot Hasil Browser 
-<!-- Letakkan screenshot Box Element di sini -->
+<!-- Letakkan screenshot Box Element di sini -->https://github.com/faiqmaarif31-tech/Lab4Web/blob/7966a1f8fbee0f577b81d1d0f55f66c4e4667568/Screenshot%202026-10-14%20074403.png
 
 ---
 
@@ -74,10 +74,9 @@ div {
 }
 ```
 
-## Screenshot Hasil Browser ![image alt]https://github.com/faiqmaarif31-tech/Lab4Web/blob/7bb480f96fa6238f5b95fd30b9b149e8c8f3b1f5/1.png
+## Screenshot Hasil Browser 
+<!-- Letakkan screenshot CSS Float di sini --> https://github.com/faiqmaarif31-tech/Lab4Web/blob/7bb480f96fa6238f5b95fd30b9b149e8c8f3b1f5/1.png
 
-
-<!-- Letakkan screenshot CSS Float di sini -->
 
 ---
 
