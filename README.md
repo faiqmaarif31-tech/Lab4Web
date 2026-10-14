@@ -361,7 +361,7 @@ Halaman About berisi informasi tentang diri sendiri, pendidikan, keahlian, dan p
 
 ## Screenshot Hasil Browser
 
-<!-- Letakkan screenshot halaman About di sini -->
+<!-- Letakkan screenshot halaman About di sini -->https://github.com/faiqmaarif31-tech/Lab4Web/blob/e7778566555b319e53525bfe43e9a8cb9217924d/Screenshot%202026-10-14%20083358.png
 
 ---
 
