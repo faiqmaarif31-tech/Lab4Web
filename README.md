@@ -147,7 +147,7 @@ Layout website merupakan pengaturan tata letak halaman web yang terdiri dari hea
 
 ## Screenshot Hasil Browser
 
-<!-- Letakkan screenshot Layout Website di sini -->
+<!-- Letakkan screenshot Layout Website di sini -->https://github.com/faiqmaarif31-tech/Lab4Web/blob/d6309fbccd62f766e055bd10725ad78c2d466483/Screenshot%202026-10-14%20075748.png
 
 ---
 
